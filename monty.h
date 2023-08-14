@@ -1,5 +1,5 @@
-#ifndef HOLY_GRAIL_H_
-#define HOLY_GRAIL_H_
+#ifndef MONTY_H
+#define MONTY_H
 
 /*
  * libraries - to be included
