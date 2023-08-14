@@ -3,7 +3,7 @@
 global_t global = {NULL, NULL};
 
 /**
- * main - monty starter
+ * main - monty entry point
  * @argc: argument count
  * @argv: argument value
  * Return: 0 success
